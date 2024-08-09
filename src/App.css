@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #4CAF50;
+  color: white;
+  padding: 1rem;
+}
+
+main {
+  padding: 2rem;
+}
+
+footer {
+  background-color: #f1f1f1;
+  padding: 1rem;
+  text-align: center;
+}
