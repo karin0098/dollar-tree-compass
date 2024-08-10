@@ -39,7 +39,7 @@ To set up the Dollar Tree Compass project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/dollar-tree-compass.git
+   git clone https://github.com/karin0098/dollar-tree-compass.git
 2. **Navigate to the Project Directory**:
    ```bash
    cd dollar-tree-compass
