@@ -27,7 +27,7 @@ By integrating GPS technology and providing a seamless user experience, the Doll
 
 - **Name**: Karin Shoemaker
 - **Email**: karin0098shoemaker@outlook.com
-- **Website**: Dollar Tree Compass
+- **Website**: [Dollar Tree Compass](https://www.dollartree-compass.com)
 - **Address**: 3153 Joanne Lane Groton, MA 01450
 - Karin Shoemaker is an experienced software developer with a strong background in building user-centric applications. With a passion for creating intuitive and functional software.
 - Karin holds a degree in Computer Science and has extensive experience in modern web technologies. Known for her problem-solving skills and dedication to quality.
